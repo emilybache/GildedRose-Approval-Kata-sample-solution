@@ -1,0 +1,45 @@
+OMGHAI!
+-------- day 0 --------
+name, sellIn, quality
+Dexterity Vest, 2, 10
+
+-------- day 1 --------
+name, sellIn, quality
+Dexterity Vest, 1, 9
+
+-------- day 2 --------
+name, sellIn, quality
+Dexterity Vest, 0, 8
+
+-------- day 3 --------
+name, sellIn, quality
+Dexterity Vest, -1, 6
+
+-------- day 4 --------
+name, sellIn, quality
+Dexterity Vest, -2, 4
+
+-------- day 5 --------
+name, sellIn, quality
+Dexterity Vest, -3, 2
+
+-------- day 6 --------
+name, sellIn, quality
+Dexterity Vest, -4, 0
+
+-------- day 7 --------
+name, sellIn, quality
+Dexterity Vest, -5, 0
+
+-------- day 8 --------
+name, sellIn, quality
+Dexterity Vest, -6, 0
+
+-------- day 9 --------
+name, sellIn, quality
+Dexterity Vest, -7, 0
+
+-------- day 10 --------
+name, sellIn, quality
+Dexterity Vest, -8, 0
+
